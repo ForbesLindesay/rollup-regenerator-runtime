@@ -1,5 +1,7 @@
 # rollup-regenerator-runtime
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/rollup-regenerator-runtime.svg)](https://greenkeeper.io/)
+
 Use this to add regenerator to any library that's compiled using rollup.
 
 ## Installation
