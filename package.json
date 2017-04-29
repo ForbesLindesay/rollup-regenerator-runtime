@@ -1,0 +1,10 @@
+{
+  "name": "rollup-regenerator-runtime",
+  "version": "6.23.1",
+  "description": "regenerator selfContained runtime for use with rollup",
+  "license": "MIT",
+  "repository": "https://github.com/ForbesLindesay/rollup-regenerator-runtime",
+  "dependencies": {
+    "regenerator-runtime": "^0.10.0"
+  }
+}
